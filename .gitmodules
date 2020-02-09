@@ -1,0 +1,3 @@
+[submodule "src/generic/hdmi"]
+	path = src/generic/hdmi
+	url = https://github.com/hdl-util/hdmi
